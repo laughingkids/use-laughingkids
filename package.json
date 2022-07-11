@@ -1,0 +1,9 @@
+{
+  "name": "use-laughingkids",
+  "version": "1.0.0",
+  "description": "A library for useful react hooks",
+  "main": "exports.ts",
+  "author": "laughingkids <developer.wxj@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
